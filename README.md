@@ -101,9 +101,7 @@ I’m passionate about using data, machine learning, and AI agents to build prac
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/panglang/">
     <img src="https://img.shields.io/badge/LinkedIn-Pang%20Lang-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  -->
   <a href="mailto:plkueh04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  -->
 </p>
