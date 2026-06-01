@@ -9,11 +9,8 @@
   />
 </p>
 
-<br/>
-
 <strong>Data Science Student @ UM · Exchange @ TUM · AI & ML Enthusiast</strong>
 
-<br/>
 <br/>
 
 <a href="https://github.com/pang-lang">
