@@ -21,7 +21,18 @@
 
 <br/>
 
-# Pang Lang
+<h1 align="center">
+  Hey 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">
+  I'm Pang Lang
+</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pang+Lang;嗨，我是湘兰;Hallo%2C+ich+bin+Pang+Lang" 
+    alt="Typing SVG" 
+  />
+</p>
 
 **Data Science Student @ UM · Exchange @ TUM · AI & ML Enthusiast**
 
