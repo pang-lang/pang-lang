@@ -1,47 +1,36 @@
 <div align="center">
 
-<!-- 
-  BANNER VIDEO:
-  GitHub doesn't support local video files directly in READMEs.
-  
-  Best options for your video banner:
-  1. HOST ON GITHUB: Upload your video to a GitHub issue (drag & drop), copy the URL, use it below.
-  2. CONVERT TO GIF: Use tools like ezgif.com or ffmpeg to convert to .gif, commit it to your repo, then reference it.
-  3. HOST ON CLOUDINARY / IMGUR: Upload and use the direct link.
-
-  Once hosted, replace the img tag below with:
-  <img src="YOUR_VIDEO_GIF_OR_HOSTED_URL" width="100%" alt="Banner" />
-  
-  Or for an actual video (only works in some markdown renderers, not standard GitHub):
-  <video src="YOUR_URL" autoplay loop muted width="100%"></video>
--->
-
-<!-- PLACEHOLDER — replace src with your hosted banner URL -->
-<!-- <img src="./banner.gif" width="100%" alt="Banner Animation" /> -->
+<img src="https://www.image2url.com/r2/default/gifs/1780325257593-ee1ae8e6-1ba9-4364-a189-66029eaf6faf.gif" width="100%" alt="Banner Animation" />
 
 <br/>
 
-<h1 align="center">
-  Hey 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">
-  I'm Pang Lang
-</h1>
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pang+Lang;嗨，我是湘兰;Hallo%2C+ich+bin+Pang+Lang" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pang+Lang;%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF%E6%B9%98%E5%85%B0;Hallo%2C+ich+bin+Pang+Lang" 
     alt="Typing SVG" 
   />
 </p>
 
-**Data Science Student @ UM · Exchange @ TUM · AI & ML Enthusiast**
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-pang--lang-181717?style=flat-square&logo=github)](https://github.com/pang-lang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pang%20Lang-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/panglang/)
-[![Email](https://img.shields.io/badge/Email-plkueh04%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:plkueh04@gmail.com)
+<strong>Data Science Student @ UM · Exchange @ TUM · AI & ML Enthusiast</strong>
+
+<br/>
+<br/>
+
+<a href="https://github.com/pang-lang">
+  <img src="https://img.shields.io/badge/GitHub-pang--lang-181717?style=flat-square&logo=github" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/panglang/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pang%20Lang-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:plkueh04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-plkueh04%40gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" />
+</a>
 
 </div>
 
+---
 
 ## About Me
 
@@ -49,7 +38,7 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 
 > 🎯 **Open to a 6-month Data / AI / ML internship starting October 2026.**
 
-
+---
 
 ## Focus Areas
 
@@ -57,7 +46,7 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 |:---:|:---:|:---:|
 | **🌐 Backend & Full-Stack** | **☁️ Cloud AI Applications** | **📊 Data Visualization** |
 
-
+---
 
 ## Tech Stack
 
@@ -70,6 +59,8 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
 
+<br/>
+
 **Data / AI / Analytics**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" />&nbsp;&nbsp;
@@ -77,13 +68,17 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" />&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" />&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Apache Hadoop" width="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Apache Hive" width="40" />&nbsp;&nbsp;
 
-**Development & Cloud**
+<br/>
+
+**Development / Cloud / Tools**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" />&nbsp;&nbsp;
@@ -94,17 +89,22 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
 
-
+---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pang-lang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=7200" />
-<img height="175em" src="https://streak-stats.demolab.com/?user=pang-lang&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pang-lang&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=7200" alt="Pang Lang's GitHub Stats" />
+<img height="175em" src="https://streak-stats.demolab.com/?user=pang-lang&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Pang Lang's GitHub Streak" />
 
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pang-lang&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pang-lang&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
