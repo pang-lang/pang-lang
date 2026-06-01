@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/Email-plkueh04%40gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" />
 </a>
 <a href="https://panglang-portfolio.vercel.app">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Portfolio" />
-  Portfolio
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 <p align="center">
