@@ -18,6 +18,9 @@
 <a href="mailto:plkueh04@gmail.com">
   <img src="https://img.shields.io/badge/Email-plkueh04%40gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" />
 </a>
+<a href="https://panglang-portfolio.vercel.app">
+  <img src="https://panglang-portfolio.vercel.app" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -34,9 +37,14 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 
 ## Focus Areas
 
-| 🔬 Data Science & Analytics | 🤖 Machine Learning | 🧩 AI Agents |
-|:---:|:---:|:---:|
-| **🌐 Backend & Full-Stack** | **☁️ Cloud AI Applications** | **📊 Data Visualization** |
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-1f6feb?style=for-the-badge" alt="Data Science & Analytics" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-8957e5?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/AI%20Agents-f97316?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Backend%20%26%20Full--Stack-238636?style=for-the-badge" alt="Backend & Full-Stack" />
+  <img src="https://img.shields.io/badge/Cloud%20AI%20Applications-0ea5e9?style=for-the-badge" alt="Cloud AI Applications" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-ec4899?style=for-the-badge" alt="Data Visualization" />
+</p>
 
 
 
