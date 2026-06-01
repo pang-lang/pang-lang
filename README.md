@@ -1,7 +1,5 @@
 <div align="center">
 
-<br/>
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pang+Lang;%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF%E6%B9%98%E5%85%B0;Hallo%2C+ich+bin+Pang+Lang" 
@@ -10,8 +8,6 @@
 </p>
 
 <strong>Data Science Student @ UM · Exchange @ TUM · AI & ML Enthusiast</strong>
-
-<br/>
 
 <a href="https://github.com/pang-lang">
   <img src="https://img.shields.io/badge/GitHub-pang--lang-181717?style=flat-square&logo=github" alt="GitHub" />
