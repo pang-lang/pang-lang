@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://www.image2url.com/r2/default/gifs/1780325257593-ee1ae8e6-1ba9-4364-a189-66029eaf6faf.gif" width="100%" alt="Banner Animation" />
-
 <br/>
 
 <p align="center">
@@ -30,7 +28,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -38,7 +36,8 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 
 > 🎯 **Open to a 6-month Data / AI / ML internship starting October 2026.**
 
----
+<img src="https://www.image2url.com/r2/default/gifs/1780325558597-07c226cb-0e53-441d-9510-cf32b77337b2.gif" width="100%" alt="Banner Animation" />
+
 
 ## Focus Areas
 
@@ -46,7 +45,7 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 |:---:|:---:|:---:|
 | **🌐 Backend & Full-Stack** | **☁️ Cloud AI Applications** | **📊 Data Visualization** |
 
----
+
 
 ## Tech Stack
 
@@ -93,7 +92,7 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
 
----
+
 
 ## GitHub Stats
 
@@ -108,7 +107,7 @@ I'm a **Data Science** student at **Universiti Malaya**, currently on an Informa
 
 </div>
 
----
+
 
 ## Contribution Graph
 
