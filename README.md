@@ -36,7 +36,7 @@
 
 I'm a **Data Science** student at **Universiti Malaya**, currently on an Informatics exchange at the **Technical University of Munich**. I build practical, scalable solutions at the intersection of data, machine learning, and intelligent agents.
 
-> 🎯 **Seeking to a 6-month Data / AI / ML internship starting October 2026.**
+> 🎯 **Seeking for a 6-month Data / AI / ML internship starting October 2026.**
 
 <img src="https://www.image2url.com/r2/default/gifs/1780325558597-07c226cb-0e53-441d-9510-cf32b77337b2.gif" width="100%" alt="Banner Animation" />
 
